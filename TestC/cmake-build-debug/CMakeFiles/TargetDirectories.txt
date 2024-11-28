@@ -1,0 +1,3 @@
+/Users/kong-yejun/Documents/GitHub/TestGitHub/TestC/cmake-build-debug/CMakeFiles/TestC.dir
+/Users/kong-yejun/Documents/GitHub/TestGitHub/TestC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kong-yejun/Documents/GitHub/TestGitHub/TestC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
